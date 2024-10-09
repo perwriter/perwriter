@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Kimiri Peter Macharia from Nairobi Kenya<br>- 🔭 I’m working as Web dev...<br>- 📚 I'm currently learning backend technologies python, Mysql, Django..<br>- 💬 Ask me about React, tailwind<br>-📫 How to reach me Perwriters@gmail.com⚡</p>
+<p align="left">I'm Kimiri Peter Macharia from Nairobi Kenya<br>- 🔭 I’m working as Web dev...<br/>-📫 How to reach me Perwriters@gmail.com⚡<br/> Website -perwriters.com <br>- 📚 I'm currently learning backend technologies python, Mysql, Django..<br>- 💬 Ask me about React, tailwind<br></p>
 
 ###
 

@@ -1,6 +1,8 @@
 <div align="center">
+  <h2>💻 Check Out My Portfolio: <a href="https://developer.perwriters.com" target="_blank">developer.perwriters.com</a></h2>
   <img height="150" src="https://avatars.githubusercontent.com/u/140948846?s=400&u=be0d66d4f1ad53a314773b76b454e2209c77b4f8&v=4"  />
 </div>
+
 ###
 
 <div align="center">
@@ -19,12 +21,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=perwriter.perwriter&"  />
 </div>
-###
-
-<div align="center">
-  <h2>💻 Check Out My Portfolio: <a href="https://developer.perwriters.com" target="_blank">developer.perwriters.com</a></h2>
-  <img height="150" src="https://avatars.githubusercontent.com/u/140948846?s=400&u=be0d66d4f1ad53a314773b76b454e2209c77b4f8&v=4"  />
-</div>
 
 ###
 
@@ -34,15 +30,11 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 <p align="left">I'm Kimiri Peter Macharia from Nairobi Kenya<br>- 🔭 I’m working as Web dev...<br/>-📫 How to reach me Perwriters@gmail.com⚡<br/> -🌎Website -perwriters.com <br>- 📚  💬 Ask me about React, Nextjs, tailwind, Creating fullstack responsive Websites<br></p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -100,11 +92,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=perwriter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=perwriter&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###

@@ -1,10 +1,6 @@
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/140948846?s=400&u=be0d66d4f1ad53a314773b76b454e2209c77b4f8&v=4"  />
 </div>
-<div align="center">
-  <h2>💻 Check Out My Portfolio: <a href="https://developer.perwriters.com" target="_blank">developer.perwriters.com</a></h2>
-  <img height="150" src="https://avatars.githubusercontent.com/u/140948846?s=400&u=be0d66d4f1ad53a314773b76b454e2209c77b4f8&v=4"  />
-</div>
 ###
 
 <div align="center">
@@ -22,6 +18,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=perwriter.perwriter&"  />
+</div>
+###
+
+<div align="center">
+  <h2>💻 Check Out My Portfolio: <a href="https://developer.perwriters.com" target="_blank">developer.perwriters.com</a></h2>
+  <img height="150" src="https://avatars.githubusercontent.com/u/140948846?s=400&u=be0d66d4f1ad53a314773b76b454e2209c77b4f8&v=4"  />
 </div>
 
 ###
